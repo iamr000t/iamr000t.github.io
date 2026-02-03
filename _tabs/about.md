@@ -10,16 +10,15 @@ order: 4
 
 ```sh
 #!/bin/bash
-su -
+sudo -s
 echo "Weird. My mind is acting up again. If this is how I need to get my intro out, 
 then so be it. 
-My name is ash. 
-About 50 years ago, great minds built the internet but forgot to keep security in mind. 
-This is where I come in. I detect noise from camouflage, I dont trust normal, 
-I find evidence based on reality. 
-I enjoy DFIR to its core. Chasing my curiosity one day at a time.
+My name is ash.  
+I enjoy DFIR at my core. Finding evidence like a needle in a haystack. 
+Chasing my curiosity one day at a time.
 This blog is where I write it down so it cant disappear..."
-#this is where I saw good bye
+read -r -p "This is where I say good bye. Press Enter..."
+echo "Goodbye"
 rm -fr /*
 ```
 
@@ -29,3 +28,5 @@ rm -fr /*
 2.  You learn a thing or two and if thats the case then `good luck` - Ill be greatful either way
 
 <center>as always, "there is no task beneath me"</center>
+
+[whoami](https://www.linkedin.com/in/ashwinder01/)
