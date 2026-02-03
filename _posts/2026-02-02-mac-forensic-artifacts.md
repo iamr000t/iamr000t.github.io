@@ -5,7 +5,7 @@ categories: mac
 tags: mac,dfir,artifacts
 image:
   path: assets/img/someonecooked.png
-  alt: chef ramsy
+  alt: chef ramsay
 ---
 
 > This is a quick blog I wrote to show macOs type investigations. Not in any means a expert at this but this is a good start if you want to learn some stuff. Follow at your own risk.
