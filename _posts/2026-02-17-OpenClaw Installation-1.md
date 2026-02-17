@@ -190,3 +190,4 @@ I havent gone through the autonomous features of OpenClaw. This was just to setu
 
 If your Discord account is compromised, the attackers will have a backdoor or prompt injection manuever to exfil data. 
 
+---
